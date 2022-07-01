@@ -4,7 +4,7 @@ This is a model which can help in easy prediction of home prices in Banglore . T
   1)Pandas: Data Cleaning
   2)Matplotlib: Data Visualization
   3)Sklearn: Model Building
-# Labels Used:
+# Features:
   a)Area of flat(total square feet)
   b)Location of flat
   c)Number of rooms(1BHK/2BHK/3BHK...) and Number of washrooms.
