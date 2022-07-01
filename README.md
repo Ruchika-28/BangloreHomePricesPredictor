@@ -8,5 +8,5 @@ This is a model which can help in easy prediction of home prices in Banglore . T
   a)Area of flat(total square feet)
   b)Location of flat
   c)Number of rooms(1BHK/2BHK/3BHK...) and Number of washrooms.
-Model Accuracy:86.29%
+# Model Accuracy: 86.29%
    
